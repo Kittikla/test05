@@ -21,6 +21,6 @@ public class Main {
             System.out.println((float) (x * 10) / 100);
         } else if (x >= 150_001) {
             System.out.println((float) (x * 5) / 100);
-        } System.out.println("ไม่ต้องเสียภาษี");
+        } else System.out.println("ไม่ต้องเสียภาษี");
     }
     }
